@@ -22,12 +22,12 @@
 </head>
 <body>
 
-<button onclick="showPopup()">Show Day 3 Session</button>
+<button onclick="showPopup()"> Day 3 Session</button>
 
 <div id="popup" class="popup">
     <span class="close-button" onclick="closePopup()">&times;</span>
     <h2>Day 3 Session</h2>
-    <p>Your content for Day 3 session goes here.</p>
+    <p>a pop up button displays day 3 session .</p>
 </div>
 
 <script>
